@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EazyBank Loans "
+  message: "Welcome to EazyBank DEFAULT_Loans "
   contactDetails:
     name: "Roman Svyshch"
     email: "svychroman@gmail.com"

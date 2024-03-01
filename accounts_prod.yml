@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank PROD_accounts_API "
+  message: "Welcome to EazyBank PRODUCTION_accounts_API "
   contactDetails:
     name: "Roman Svyshch product_owner"
     email: "svychroman@gmail.com"

@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts safaf "
+  message: "Welcome to EazyBank accounts update "
   contactDetails:
     name: "Roman Svyshch"
     email: "{cipher}7647e62c1c7e5c9a5faab2c6191a3b8b324f9c685d085a1df78c9d7c248fc59990ae1f2bb40d3ed1012143890654f6c9"
